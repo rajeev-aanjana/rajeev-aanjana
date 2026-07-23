@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=220&section=header&text=Rajeev%20Aanjana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20crafting%20fast,%20scalable%20web%20apps&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:61DAFB&height=220&section=header&text=Rajeev%20Anjana&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20crafting%20fast,%20scalable%20web%20apps&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/rajeev-anjana-a03409214/">
   <img src="https://readme-typing-svg.demolab.com/?lines=React.js+%2B+Next.js+%2B+JavaScript/TypeScript;Pixel-perfect+UIs%2C+zero+jank;2%2B+years+building+product-grade+web+apps;Open+to+Frontend+%2F+React+roles;Let's+build+something+fast+%F0%9F%9A%80&font=Fira+Code&center=true&width=650&height=45&color=61DAFB&vCenter=true&size=22&pause=1200"/>
