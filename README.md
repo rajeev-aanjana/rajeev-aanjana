@@ -63,15 +63,6 @@ const rajeev = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeev-aanjana&theme=tokyo-night&hide_border=true&height=165&area=true" height="165"/>
 </p>
 
----
-
-### 🏆 Trophy Case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajeev-aanjana&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
